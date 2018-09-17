@@ -1,2 +1,2 @@
 # Novosibirsk-region-sights
-School project. Was made in  
+School project was made in 2013
